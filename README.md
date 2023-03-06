@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pre-work Study Guide
 
 ## Description
@@ -27,3 +28,7 @@ Please refer to the license in repo
 
 
 
+=======
+# This prework study guide was created to better prepare me for the coding bootcamp and excell as a student.
+Test Repository For Pre-work
+>>>>>>> 59360cffb3fb0d9efac69b3b15501a219bdadf06
